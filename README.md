@@ -293,15 +293,17 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 </div>
 
-<details>
-<summary><b>🧊 3D Isometric Contribution Graph</b> — auto-generated via GitHub Actions</summary>
 <br/>
 
-> To generate the 3D graph, run the **profile-3d-contrib** workflow from the [Actions tab](https://github.com/Barani2504/Barani2504/actions). It will auto-commit the SVG and appear here.
->
-> <img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" width="100%"/>
+### 🧊 3D Isometric Contribution Graph
 
-</details>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%"/>
+
+<sub>Isometric 3D render of commit history — auto-updated daily via GitHub Actions.</sub>
+
+</div>
 
 <br/>
 
