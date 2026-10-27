@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Custom Cyberpunk Arcade iOS Banner -->
+  <!-- Banner -->
   <a href="https://linkedin.com/in/barani-s-4a479930b" target="_blank">
     <img src="./banner.png" alt="Barani S - Native iOS & AI/ML Engineer" width="100%" />
   </a>
 
   <br/><br/>
 
-  <!-- 8-Bit Retro Pixel Font Typing SVG -->
+  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=35&lines=LEVEL+99:+NATIVE+iOS+%26+AI%2FML+ENGINEER+%F0%9F%93%B1;EQUIPPED:+SWIFTUI,+CORE+ML+%26+XCODE+16+%E2%9A%94%EF%B8%8F;CURRENT+QUEST:+SHIPPING+HEALTHCARE+APPS+%F0%9F%A9%BA;ULTIMATE:+ZERO-LATENCY+ON-DEVICE+INFERENCE+%E2%9A%A1;PRESS+[START]+TO+JOIN+PARTY+%E2%9C%A8" alt="8-Bit Arcade Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=40&lines=Native+iOS+%26+AI%2FML+Engineer+%F0%9F%93%B1;Swift+%7C+SwiftUI+%7C+Core+ML+%7C+Xcode+16;Building+Healthcare+Apps+with+On-Device+Intelligence;Open+to+iOS+Developer+%26+Mobile+Engineer+Roles" alt="Typing Headline" />
   </a>
 
   <br/>
@@ -18,27 +18,27 @@
   <p align="center">
     <img src="https://img.shields.io/badge/B.Sc._Computer_Science-2022_--_2026-6C2BD9?style=flat-square&labelColor=090d16" alt="Degree" />
     <img src="https://img.shields.io/badge/CGPA-8.0-8B5CF6?style=flat-square&labelColor=090d16" alt="CGPA" />
-    <img src="https://img.shields.io/badge/📍_Location-India-0077B5?style=flat-square&labelColor=090d16" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-India-0077B5?style=flat-square&labelColor=090d16" alt="Location" />
     <img src="https://img.shields.io/badge/Role-iOS_App_Developer_Intern-059669?style=flat-square&labelColor=090d16" alt="Role" />
   </p>
 
-  <!-- Multiplayer Party / Guild Links -->
+  <!-- Social Links -->
   <p align="center">
     <a href="https://linkedin.com/in/barani-s-4a479930b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Guild" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:barani2504s@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raven" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Barani2504" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+      <img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-6C2BD9?style=for-the-badge&logo=safari&logoColor=38bdf8" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/Portfolio-6C2BD9?style=for-the-badge&logo=safari&logoColor=38bdf8" alt="Portfolio" />
     </a>
   </p>
 
-  <!-- Live Profile Counters -->
+  <!-- Profile Counters -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Barani2504&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/Barani2504?label=Followers&style=flat-square&color=8B5CF6&labelColor=090d16" alt="Followers" />
@@ -47,40 +47,41 @@
 
 </div>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 👾 Character HUD & Player Sheet
+### 👨‍💻 About Me
 
 <table border="0" width="100%">
   <tr>
     <td width="58%" valign="top">
 
 ```swift
-final class PlayerOne: iOSLegend {
-    let handle: String      = "Barani2504 🎮"
-    let roleClass: String   = "Native iOS & AI/ML Engineer 🧙‍♂️"
-    let playerLevel: Int    = 99
-    let activeGuild: String = "Apple Developer Ecosystem 🍎"
+struct DeveloperProfile {
+    let name: String         = "Barani S"
+    let role: String         = "Native iOS & AI/ML Engineer"
+    let education: String    = "B.Sc. Computer Science, 2022–2026"
+    let organization: String = "SIMATS Engineering"
 
-    // Live Player Gauges
-    var staminaGauge: String = "☕ [██████████] 100% Espresso"
-    var manaPool: String     = "⚡ [██████████] Core ML & Neural Logic"
-    var agility: String      = "📱 120 FPS SwiftUI ProMotion"
-    var ultimateMove: String = "On-Device Zero-Latency Inference 🚀"
+    // Core Expertise
+    let primaryFocus: String  = "iOS Healthcare & AI/ML Applications"
+    let aiSpecialty: String   = "On-Device Inference — Core ML & TFLite"
+    let deployment: String    = "App Store Connect & TestFlight"
 
-    // Core Loadout
-    var weapons: [Item] = [.swift, .swiftUI, .coreML, .combine, .tflite]
+    // Tech Stack
+    let stack: [String] = [
+        "Swift", "SwiftUI", "UIKit",
+        "Core ML", "Combine", "TFLite"
+    ]
 }
 ```
 
-- 🎯 **Primary Quest:** Engineering native iOS healthcare & AI applications with on-device intelligence.
-- 📜 **Skill Tree:** Swift, SwiftUI, UIKit, Core ML, TensorFlow Lite, YOLOv8, Combine, Core Data & Clean MVVM.
-- 🏆 **Achievement Unlocked:** Shipped 3–5 production medical apps to TestFlight & mentored 100+ developers.
+- 🎯 **Focus:** Engineering production-grade iOS healthcare & AI applications with on-device intelligence.
+- 🛠️ **Core Skills:** Swift, SwiftUI, UIKit, Core ML, TensorFlow Lite, YOLOv8, Combine, Core Data & Clean MVVM.
+- 🏆 **Key Achievement:** Shipped 3–5 production medical apps to TestFlight & mentored 100+ developers.
 
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="310" alt="Cyber Retro Gamer Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="310" alt="Developer Animation" />
     </td>
   </tr>
 </table>
@@ -112,28 +113,26 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### ⚔️ Weapon Arsenal & Skill Inventory
+### 🛠️ Technical Skills
 
 <div align="center">
 
-| Gear Tier | Weapon Class | Equipped Items |
-| :---: | :--- | :--- |
-| **S+** | **🗡️ Primary Blades (Native iOS)** | <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Native iOS" /> `SwiftUI` `UIKit` `Combine` `Core Data` `Swift Concurrency` |
-| **S** | **🧠 Neural Spells (On-Device AI/ML)** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" alt="AI / ML" /> `Core ML` `TensorFlow Lite` `YOLOv8` `RAG Systems` |
-| **A+** | **🛡️ Armor & Backing (APIs & Systems)** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=dark" alt="Backend & APIs" /> `REST APIs` `JSON` `Judge0` |
-| **A** | **🎒 Adventurer's Kit (Dev Tools & Android)** | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=dark" alt="Dev Tools" /> `Xcode` `TestFlight` `Apple HIG` |
+| Category | Skills | Technologies |
+| :--- | :--- | :--- |
+| **iOS Development** | Native App Development | <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Swift & Apple" /> `SwiftUI` `UIKit` `Combine` `Core Data` `Swift Concurrency` |
+| **On-Device AI / ML** | Machine Learning & Computer Vision | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" alt="AI / ML" /> `Core ML` `TensorFlow Lite` `YOLOv8` `RAG Systems` |
+| **Backend & APIs** | Server-side & API Integration | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=dark" alt="Backend & APIs" /> `REST APIs` `JSON` `Judge0` |
+| **Tools & Platforms** | DevOps, Android & Tooling | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=dark" alt="Dev Tools" /> `Xcode` `TestFlight` `Apple HIG` |
 
 </div>
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 🧠 AI / ML Expertise — Spell Book
+### 🧠 AI / ML Expertise
 
 <div align="center">
 
@@ -148,44 +147,43 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 🏰 Boss Dungeons & Active Raids (Featured Projects)
+### 🚀 Featured Projects
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Barani2504/Corecare_iOS" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Corecare_iOS&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="CoreCare iOS Raid" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Corecare_iOS&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="CoreCare iOS" />
       </a>
       <br/>
-      <sub><b>🩺 Raid: CoreCare-iOS</b> — AI-powered cardiac care & self-monitoring with offline-first persistence & real-time chatbot.</sub>
+      <sub><b>🩺 CoreCare iOS</b> — AI-powered cardiac care & self-monitoring with offline-first persistence & real-time chatbot.</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Barani2504/Renal-Calculi" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Renal-Calculi&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Renal Calculi Quest" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Renal-Calculi&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Renal Calculi" />
       </a>
       <br/>
-      <sub><b>🫘 Quest: SIMATS Renal Calculi</b> — On-device CT medical imaging & kidney stone detection using Core ML & YOLOv8.</sub>
+      <sub><b>🫘 SIMATS Renal Calculi</b> — On-device CT medical imaging & kidney stone detection using Core ML & YOLOv8.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/Barani2504/Codego_Compiler" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Codego_Compiler&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Codego Compiler Raid" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Codego_Compiler&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Codego Compiler" />
       </a>
       <br/>
-      <sub><b>⚙️ Raid: Codego Multi-Language Engine</b> — Load-balanced online code execution platform paired with RAG assistant.</sub>
+      <sub><b>⚙️ Codego Multi-Language Engine</b> — Load-balanced online code execution platform paired with RAG assistant.</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/Barani2504/Code_in_go_android" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Code_in_go_android&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Code-In-Go Android Quest" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Code_in_go_android&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Code-In-Go Android" />
       </a>
       <br/>
-      <sub><b>📱 Quest: Code-In-Go Android</b> — Native mobile client engineered with Kotlin & sandboxed telemetry execution.</sub>
+      <sub><b>📱 Code-In-Go Android</b> — Native mobile client engineered with Kotlin & sandboxed telemetry execution.</sub>
     </td>
   </tr>
 </table>
@@ -193,7 +191,7 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 <br/>
 
 <details>
-<summary><b>🔍 Click to view Deep-Dive Architecture Specs for Active Raids</b></summary>
+<summary><b>🔍 View Architecture & Engineering Details</b></summary>
 <br/>
 
 | Project | Tech Stack | Architecture & Engineering Highlights |
@@ -207,10 +205,9 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 🎮 Experience — Quest Log
+### 💼 Work Experience
 
 **iOS App Developer Intern** · SIMATS Engineering  
 `2025 — Present`
@@ -227,47 +224,43 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 📊 Battle Radar & Player XP
+### 📊 GitHub Statistics
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Barani2504&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="Player Battle Stats" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Barani2504&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" height="165" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Barani2504&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Mastered Spells" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Barani2504&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=Barani2504&theme=tokyonight&hide_border=false&border_radius=10" alt="Combo Multiplier Streak" />
+  <img src="https://streak-stats.demolab.com?user=Barani2504&theme=tokyonight&hide_border=false&border_radius=10" alt="Contribution Streak" />
 </div>
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 🥇 Trophy Room & Achievements
+### 🏆 Achievements & Recognition
 
 <div align="center">
 
-<!-- Achievement Badges Row -->
-<img src="https://img.shields.io/badge/🏅_Achiever-MultiCommit-FFD700?style=for-the-badge&labelColor=090d16" alt="MultiCommit" />
-<img src="https://img.shields.io/badge/🔥_Achiever-Joined_2024-FF6B35?style=for-the-badge&labelColor=090d16" alt="Joined 2024" />
-<img src="https://img.shields.io/badge/📦_Achiever-Repositories-8B5CF6?style=for-the-badge&labelColor=090d16" alt="Repositories" />
-<img src="https://img.shields.io/badge/⭐_Achiever-Stars_Earned-38BDF8?style=for-the-badge&labelColor=090d16" alt="Stars" />
-<img src="https://img.shields.io/badge/👥_Achiever-Followers-059669?style=for-the-badge&labelColor=090d16" alt="Followers" />
+<img src="https://img.shields.io/badge/Production_Apps-3--5_Healthcare_Apps_Shipped-0078D4?style=for-the-badge&labelColor=090d16" alt="Production Apps" />
+<img src="https://img.shields.io/badge/Mentorship-100%2B_Engineers_Guided-8B5CF6?style=for-the-badge&labelColor=090d16" alt="Mentorship" />
+<img src="https://img.shields.io/badge/AI%2FML-On--Device_ML_Pipelines-059669?style=for-the-badge&labelColor=090d16" alt="AI/ML" />
+<img src="https://img.shields.io/badge/Platforms-iOS_%7C_Android_%7C_Web-38BDF8?style=for-the-badge&labelColor=090d16" alt="Platforms" />
 
 <br/><br/>
 
-| Recognition | Details |
+| Achievement | Details |
 |:--|:--|
 | 🏥 **Healthcare App Delivery** | Shipped 3–5 production healthcare apps to TestFlight & App Store Connect |
 | 👨‍🏫 **Peer Mentorship** | Guided and reviewed code for 100+ student developers across iOS, Android & web stacks |
@@ -277,24 +270,23 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 📈 Contribution Activity Graph
+### 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barani2504&theme=tokyo-night&hide_border=true&area=true&area_color=38bdf8&line=8B5CF6&point=ffffff" alt="Contribution Activity Graph" width="100%"/>
 
-<sub>Live contribution activity graph — commits, PRs & code reviews over time.</sub>
+<sub>Contribution activity graph — commits, pull requests & code reviews over time.</sub>
 
 </div>
 
 <details>
-<summary><b>🧊 3D Isometric Map</b> — generates automatically via GitHub Actions once the workflow runs</summary>
+<summary><b>🧊 3D Isometric Contribution Graph</b> — auto-generated via GitHub Actions</summary>
 <br/>
 
-> Run the **profile-3d-contrib** workflow from the [Actions tab](https://github.com/Barani2504/Barani2504/actions) to generate the 3D SVG. Once generated, it will appear here automatically.
+> To generate the 3D graph, run the **profile-3d-contrib** workflow from the [Actions tab](https://github.com/Barani2504/Barani2504/actions). It will auto-commit the SVG and appear here.
 >
 > <img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" width="100%"/>
 
@@ -302,42 +294,37 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 🕹️ Retro Arcade Arena: Pac-Man Devourer of Commits
+### 🕹️ GitHub Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barani2504/Barani2504/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barani2504/Barani2504/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Eating Commits" src="https://raw.githubusercontent.com/Barani2504/Barani2504/output/pacman-contribution-graph.svg" width="100%" />
+    <img alt="Contribution Graph Animation" src="https://raw.githubusercontent.com/Barani2504/Barani2504/output/pacman-contribution-graph.svg" width="100%" />
   </picture>
 </div>
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
 ### 📜 Certifications & Coding Profiles
 
 <div align="center">
 
-<!-- ────────────────────────────────────────────── -->
-<!--        🏅  AZURE DP-900 CERTIFICATE CARD       -->
-<!-- ────────────────────────────────────────────── -->
-
+<!-- Azure DP-900 Certificate Card -->
 <table border="0" width="82%" align="center">
   <tr>
     <td align="center">
       <br/>
       <a href="./certificates/azure-dp900.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/🏅_Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004578" alt="Microsoft Azure DP-900 Certification" />
+        <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004578" alt="Microsoft Azure DP-900 Certification" />
       </a>
       <br/><br/>
       <a href="./certificates/azure-dp900.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/📄_View_Certificate-Click_to_Open_PDF-00B4D8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=003049" alt="View Certificate PDF" />
+        <img src="https://img.shields.io/badge/View_Certificate-Open_PDF-00B4D8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=003049" alt="View Certificate PDF" />
       </a>
       <br/><br/>
       <table border="0" align="center">
@@ -352,12 +339,12 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
             <img src="https://img.shields.io/badge/Domain-Azure_Data_Fundamentals-38BDF8?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=090d16" alt="Domain" />
           </td>
           <td align="center">
-            <img src="https://img.shields.io/badge/Status-✅_Certified-059669?style=flat-square&logoColor=white&labelColor=090d16" alt="Status" />
+            <img src="https://img.shields.io/badge/Status-Certified-059669?style=flat-square&logoColor=white&labelColor=090d16" alt="Status: Certified" />
           </td>
         </tr>
       </table>
       <br/>
-      <sub><b>🌐 Topics Covered:</b> Cloud Concepts &nbsp;·&nbsp; Azure Data Services &nbsp;·&nbsp; Relational &amp; Non-Relational Data &nbsp;·&nbsp; Analytics Workloads</sub>
+      <sub><b>Topics Covered:</b> Cloud Concepts &nbsp;·&nbsp; Azure Data Services &nbsp;·&nbsp; Relational &amp; Non-Relational Data &nbsp;·&nbsp; Analytics Workloads</sub>
       <br/><br/>
     </td>
   </tr>
@@ -366,12 +353,12 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 <br/>
 
 <details>
-  <summary><b>📖 Click to Preview Certificate (PDF Links & Viewer)</b></summary>
+  <summary><b>📖 View Certificate (PDF Links & Viewer)</b></summary>
   <br/>
 
-  > **🔗 Direct PDF Link:** [azure-dp900.pdf](./certificates/azure-dp900.pdf)
+  > **Direct PDF Link:** [azure-dp900.pdf](./certificates/azure-dp900.pdf)
   >
-  > **📄 Online Viewer:** [View in Browser via GitHub](https://github.com/Barani2504/Barani2504/blob/main/certificates/azure-dp900.pdf)
+  > **Online Viewer:** [View in Browser via GitHub](https://github.com/Barani2504/Barani2504/blob/main/certificates/azure-dp900.pdf)
   >
   > [![Open Certificate PDF](https://img.shields.io/badge/Open_PDF-Microsoft_Azure_DP--900_Certificate-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certificates/azure-dp900.pdf)
 
@@ -383,11 +370,10 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/><br/>
 
-**🏆 Coding Leaderboards & Practice Arenas**
+**Competitive Programming & Practice Platforms**
 
 <br/>
 
-  <!-- Coding Leaderboards -->
   <a href="https://leetcode.com/u/Barani2504" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-090d16?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
@@ -405,10 +391,9 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 🎯 Current Focus — Active Quests
+### 🎯 Current Focus
 
 ```yaml
 learning:
@@ -427,20 +412,20 @@ open_to:
 
 <br/>
 
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
 
-### 📜 Tavern Lore (Daily Wisdom Scroll)
+### 💬 Developer Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Wisdom" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p>💾 <b>CHECKPOINT REACHED • SAVE GAME COMPLETE</b></p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Barani2504.Barani2504&left_color=090d16&right_color=38bdf8" alt="Party Member Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Barani2504.Barani2504&left_color=090d16&right_color=38bdf8" alt="Profile Views" />
   <br /><br />
-  <sub>🎮 Drop a <b>[⭐ Star]</b> on my repos to give EXP, or <b>[Follow]</b> to join the guild! Built with <b>Swift & Core ML</b> by <b>Barani S</b> 🎮</sub>
+  <sub>If you find my work useful, consider giving a ⭐ to the repositories. Open to collaborations and opportunities.</sub>
+  <br/>
+  <sub>— <b>Barani S</b> · Native iOS & AI/ML Engineer · Built with Swift & Core ML</sub>
 </div>
