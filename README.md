@@ -40,23 +40,30 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
 
 ```swift
 struct PlayerOne {
-    let name: String      = "Barani S"
-    let role: String      = "Mobile Application Developer (iOS)"
-    let focus: String     = "Native iOS Engineering · AI/ML-Powered Features · Full-Stack Integration"
-    let education: String = "B.Sc. Computer Science — SIMATS Engineering (2022–2026)"
-    let guild: String     = "Apple Developer Ecosystem 🍎"
+    let name    = "Barani S"
+    let role    = "Mobile Application Developer (iOS)"
+    let focus   = [
+        "Native iOS Engineering",
+        "AI/ML-Powered Features",
+        "Full-Stack Integration"
+    ]
+    let degree  = "B.Sc. Computer Science"
+    let college = "SIMATS Engineering (2022–2026)"
+    let guild   = "Apple Developer Ecosystem 🍎"
 
     // Core Loadout
-    var weapons: [Item] = [.swift, .swiftUI, .coreML, .rest]
+    var weapons: [Item] = [
+        .swift, .swiftUI, .coreML, .rest
+    ]
 }
 ```
 
 </td>
-    <td width="42%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="310" alt="Cyber Retro Gamer Animation" />
 </td>
   </tr>
@@ -264,7 +271,11 @@ App Store release, alongside backend optimization and cross-team technical mento
 
 ## 📜 Certifications — Badges Collected
 
-> *No certifications listed yet — add provider badges here (e.g. AWS, Oracle, NPTEL, Cisco) as you complete them.*
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure DP-900"/></a>
+
+</div>
 
 <br/>
 
@@ -345,7 +356,7 @@ App Store release, alongside backend optimization and cross-team technical mento
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Barani2504/Barani2504/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 <sub>Isometric 3D render of your commit history — generated automatically each night.</sub>
 
@@ -357,6 +368,8 @@ App Store release, alongside backend optimization and cross-team technical mento
 > on:
 >   schedule: [{ cron: "0 0 * * *" }]
 >   workflow_dispatch:
+> permissions:
+>   contents: write
 > jobs:
 >   build:
 >     runs-on: ubuntu-latest
@@ -365,6 +378,7 @@ App Store release, alongside backend optimization and cross-team technical mento
 >       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
 >         env:
 >           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>           USERNAME: ${{ github.repository_owner }}
 >       - uses: stefanzweifel/git-auto-commit-action@v5
 >         with:
 >           commit_message: "generate profile 3d contribution"
