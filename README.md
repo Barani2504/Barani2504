@@ -309,12 +309,68 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <div align="center">
 
-  <!-- Certification Badge -->
-  <a href="./certificates/azure-dp900.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure DP-900" />
-  </a>
+<!-- ────────────────────────────────────────────── -->
+<!--        🏅  AZURE DP-900 CERTIFICATE CARD       -->
+<!-- ────────────────────────────────────────────── -->
 
-  <br/><br/>
+<table border="0" width="82%" align="center">
+  <tr>
+    <td align="center">
+      <br/>
+      <a href="./certificates/azure-dp900.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/🏅_Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004578" alt="Microsoft Azure DP-900 Certification" />
+      </a>
+      <br/><br/>
+      <a href="./certificates/azure-dp900.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/📄_View_Certificate-Click_to_Open_PDF-00B4D8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=003049" alt="View Certificate PDF" />
+      </a>
+      <br/><br/>
+      <table border="0" align="center">
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Issuer-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=090d16" alt="Issuer" />
+          </td>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Exam-DP--900-8B5CF6?style=flat-square&logoColor=white&labelColor=090d16" alt="Exam Code" />
+          </td>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Domain-Azure_Data_Fundamentals-38BDF8?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=090d16" alt="Domain" />
+          </td>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Status-✅_Certified-059669?style=flat-square&logoColor=white&labelColor=090d16" alt="Status" />
+          </td>
+        </tr>
+      </table>
+      <br/>
+      <sub><b>🌐 Topics Covered:</b> Cloud Concepts &nbsp;·&nbsp; Azure Data Services &nbsp;·&nbsp; Relational &amp; Non-Relational Data &nbsp;·&nbsp; Analytics Workloads</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+  <summary><b>📖 Click to Preview Certificate (PDF Links & Viewer)</b></summary>
+  <br/>
+
+  > **🔗 Direct PDF Link:** [azure-dp900.pdf](./certificates/azure-dp900.pdf)
+  >
+  > **📄 Online Viewer:** [View in Browser via GitHub](https://github.com/Barani2504/Barani2504/blob/main/certificates/azure-dp900.pdf)
+  >
+  > [![Open Certificate PDF](https://img.shields.io/badge/Open_PDF-Microsoft_Azure_DP--900_Certificate-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certificates/azure-dp900.pdf)
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="55%" height="2" alt="Mini Divider" />
+
+<br/><br/>
+
+**🏆 Coding Leaderboards & Practice Arenas**
+
+<br/>
 
   <!-- Coding Leaderboards -->
   <a href="https://leetcode.com/u/Barani2504" target="_blank">
