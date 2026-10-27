@@ -64,7 +64,17 @@ struct PlayerOne {
 
 </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="310" alt="Cyber Retro Gamer Animation" />
+      <img src="https://img.shields.io/badge/PLAYER-ONE-6C2BD9?style=for-the-badge&labelColor=1A0B2E"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/CLASS-iOS_Developer-8B5CF6?style=for-the-badge&logo=apple&logoColor=white&labelColor=1A0B2E"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/WEAPON-Swift_%26_SwiftUI-4C1D95?style=for-the-badge&logo=swift&logoColor=white&labelColor=1A0B2E"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SPELLS-Core_ML_%7C_TF_Lite-6C2BD9?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1A0B2E"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/QUEST-Healthcare_Apps-8B5CF6?style=for-the-badge&labelColor=1A0B2E"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=swift,xcode,apple,tensorflow&theme=dark"/>
 </td>
   </tr>
 </table>
@@ -273,7 +283,7 @@ App Store release, alongside backend optimization and cross-team technical mento
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure DP-900"/></a>
+<a href="./certificates/azure-dp900.pdf" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure DP-900"/></a>
 
 </div>
 
@@ -358,33 +368,9 @@ App Store release, alongside backend optimization and cross-team technical mento
 
 <img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
-<sub>Isometric 3D render of your commit history — generated automatically each night.</sub>
+<sub>Isometric 3D render of my commit history — updated automatically every night.</sub>
 
 </div>
-
-> **One-time setup:** add this GitHub Action to `Barani2504/Barani2504/.github/workflows/profile-3d-contrib.yml`:
-> ```yaml
-> name: profile-3d-contrib
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> permissions:
->   contents: write
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: actions/checkout@v4
->       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->           USERNAME: ${{ github.repository_owner }}
->       - uses: stefanzweifel/git-auto-commit-action@v5
->         with:
->           commit_message: "generate profile 3d contribution"
->           file_pattern: "profile-3d-contrib/*.svg"
-> ```
-> This produces a genuine extruded/isometric 3D bar-chart SVG of your contribution calendar — the only true "3D" GitHub itself can render, since profile READMEs can't execute CSS transforms or JavaScript.
 
 <br/>
 
