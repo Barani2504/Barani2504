@@ -258,7 +258,12 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Barani2504&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+<!-- Achievement Badges Row -->
+<img src="https://img.shields.io/badge/🏅_Achiever-MultiCommit-FFD700?style=for-the-badge&labelColor=090d16" alt="MultiCommit" />
+<img src="https://img.shields.io/badge/🔥_Achiever-Joined_2024-FF6B35?style=for-the-badge&labelColor=090d16" alt="Joined 2024" />
+<img src="https://img.shields.io/badge/📦_Achiever-Repositories-8B5CF6?style=for-the-badge&labelColor=090d16" alt="Repositories" />
+<img src="https://img.shields.io/badge/⭐_Achiever-Stars_Earned-38BDF8?style=for-the-badge&labelColor=090d16" alt="Stars" />
+<img src="https://img.shields.io/badge/👥_Achiever-Followers-059669?style=for-the-badge&labelColor=090d16" alt="Followers" />
 
 <br/><br/>
 
@@ -275,15 +280,25 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 <!-- Glowing Neon Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
 
-### 🧊 3D Contribution Graph — Isometric Map
+### 📈 Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barani2504&theme=tokyo-night&hide_border=true&area=true&area_color=38bdf8&line=8B5CF6&point=ffffff" alt="Contribution Activity Graph" width="100%"/>
 
-<sub>Isometric 3D render of commit history — updated automatically via GitHub Actions.</sub>
+<sub>Live contribution activity graph — commits, PRs & code reviews over time.</sub>
 
 </div>
+
+<details>
+<summary><b>🧊 3D Isometric Map</b> — generates automatically via GitHub Actions once the workflow runs</summary>
+<br/>
+
+> Run the **profile-3d-contrib** workflow from the [Actions tab](https://github.com/Barani2504/Barani2504/actions) to generate the 3D SVG. Once generated, it will appear here automatically.
+>
+> <img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" width="100%"/>
+
+</details>
 
 <br/>
 
