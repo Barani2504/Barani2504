@@ -327,55 +327,36 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <div align="center">
 
-<!-- Azure DP-900 Certificate Card -->
-<table border="0" width="82%" align="center">
-  <tr>
-    <td align="center">
-      <br/>
-      <a href="./certificates/azure-dp900.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=004578" alt="Microsoft Azure DP-900 Certification" />
-      </a>
-      <br/><br/>
-      <a href="./certificates/azure-dp900.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/View_Certificate-Open_PDF-00B4D8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=003049" alt="View Certificate PDF" />
-      </a>
-      <br/><br/>
-      <table border="0" align="center">
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Issuer-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=090d16" alt="Issuer" />
-          </td>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Exam-DP--900-8B5CF6?style=flat-square&logoColor=white&labelColor=090d16" alt="Exam Code" />
-          </td>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Domain-Azure_Data_Fundamentals-38BDF8?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=090d16" alt="Domain" />
-          </td>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Status-Certified-059669?style=flat-square&logoColor=white&labelColor=090d16" alt="Status: Certified" />
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <sub><b>Topics Covered:</b> Cloud Concepts &nbsp;·&nbsp; Azure Data Services &nbsp;·&nbsp; Relational &amp; Non-Relational Data &nbsp;·&nbsp; Analytics Workloads</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<!-- Azure DP-900 Certificate Display -->
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Barani2504/Barani2504/main/certificates/azure-dp900.pdf" target="_blank" title="Click to view or download high-resolution PDF">
+    <img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/certificates/azure-dp900.png" alt="Microsoft Certified: Azure Data Fundamentals (DP-900) - S Barani" width="85%" style="border-radius: 8px;" />
+  </a>
+</p>
 
-<br/>
+<sub>🔍 <i>Click the certificate image above to view or download the original high-resolution PDF</i></sub>
 
-<details>
-  <summary><b>📖 View Certificate (PDF Links & Viewer)</b></summary>
-  <br/>
+<br/><br/>
 
-  > **Direct PDF Link:** [azure-dp900.pdf](./certificates/azure-dp900.pdf)
-  >
-  > **Online Viewer:** [View in Browser via GitHub](https://github.com/Barani2504/Barani2504/blob/main/certificates/azure-dp900.pdf)
-  >
-  > [![Open Certificate PDF](https://img.shields.io/badge/Open_PDF-Microsoft_Azure_DP--900_Certificate-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./certificates/azure-dp900.pdf)
+<!-- Metadata badges -->
+<img src="https://img.shields.io/badge/Issuer-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=090d16" alt="Issuer" />
+<img src="https://img.shields.io/badge/Exam-DP--900-8B5CF6?style=flat-square&logoColor=white&labelColor=090d16" alt="Exam Code" />
+<img src="https://img.shields.io/badge/Domain-Azure_Data_Fundamentals-38BDF8?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=090d16" alt="Domain" />
+<img src="https://img.shields.io/badge/Status-Certified-059669?style=flat-square&logoColor=white&labelColor=090d16" alt="Status: Certified" />
+<img src="https://img.shields.io/badge/Verification-wBmAX--2FMV-F59E0B?style=flat-square&labelColor=090d16" alt="Verification Code" />
 
-</details>
+<br/><br/>
+
+<a href="https://raw.githubusercontent.com/Barani2504/Barani2504/main/certificates/azure-dp900.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download_Original-PDF_Document-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF" />
+</a>
+&nbsp;
+<a href="https://verify.certiport.com" target="_blank">
+  <img src="https://img.shields.io/badge/Verify_Credential-Certiport-00B4D8?style=for-the-badge&labelColor=090d16" alt="Verify on Certiport" />
+</a>
+
+<br/><br/>
+<sub><b>Key Competencies:</b> Cloud Concepts &nbsp;·&nbsp; Azure Relational &amp; Non-Relational Data &nbsp;·&nbsp; Modern Data Analytics &amp; Storage</sub>
 
 <br/>
 
