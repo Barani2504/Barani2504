@@ -51,21 +51,23 @@
 
 ### 👨‍💻 About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="58%" valign="top">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Coding Animation" />
+</div>
+
+<br/>
 
 ```swift
 struct DeveloperProfile {
     let name: String         = "Barani S"
     let role: String         = "Native iOS & AI/ML Engineer"
-    let education: String    = "B.Sc. Computer Science, 2022–2026"
+    let education: String    = "B.Sc. Computer Science, 2022-2026"
     let organization: String = "SIMATS Engineering"
 
     // Core Expertise
-    let primaryFocus: String  = "iOS Healthcare & AI/ML Applications"
-    let aiSpecialty: String   = "On-Device Inference — Core ML & TFLite"
-    let deployment: String    = "App Store Connect & TestFlight"
+    let primaryFocus: String = "iOS Healthcare & AI/ML Applications"
+    let aiSpecialty: String  = "On-Device Inference - Core ML & TFLite"
+    let deployment: String   = "App Store Connect & TestFlight"
 
     // Tech Stack
     let stack: [String] = [
@@ -78,13 +80,6 @@ struct DeveloperProfile {
 - 🎯 **Focus:** Engineering production-grade iOS healthcare & AI applications with on-device intelligence.
 - 🛠️ **Core Skills:** Swift, SwiftUI, UIKit, Core ML, TensorFlow Lite, YOLOv8, Combine, Core Data & Clean MVVM.
 - 🏆 **Key Achievement:** Shipped 3–5 production medical apps to TestFlight & mentored 100+ developers.
-
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="310" alt="Developer Animation" />
-    </td>
-  </tr>
-</table>
 
 I build **native iOS applications** with Swift and SwiftUI — spanning the full app lifecycle from interface design and REST API integration to on-device AI/ML inference and App Store release management. My work sits at the intersection of **mobile engineering, applied AI/ML, and full-stack backend development**, with hands-on delivery of healthcare and developer-tooling products used in real deployments.
 
@@ -276,9 +271,25 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barani2504&theme=tokyo-night&hide_border=true&area=true&area_color=38bdf8&line=8B5CF6&point=ffffff" alt="Contribution Activity Graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=tokyonight" alt="Contribution Activity Overview" width="100%"/>
 
-<sub>Contribution activity graph — commits, pull requests & code reviews over time.</sub>
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=tokyonight" alt="Repos Per Language" height="180" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=tokyonight" alt="Most Commit Language" height="180" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
+    </td>
+  </tr>
+</table>
+
+<sub>Contribution overview — commit history, language distribution & peak coding hours.</sub>
 
 </div>
 
