@@ -61,7 +61,7 @@
 struct DeveloperProfile {
     let name: String         = "Barani S"
     let role: String         = "Native iOS & AI/ML Engineer"
-    let education: String    = "B.Sc. Computer Science, 2022-2026"
+    let education: String    = "B.E. Computer Science, 2022-2026"
     let organization: String = "SIMATS Engineering"
 
     // Core Expertise
