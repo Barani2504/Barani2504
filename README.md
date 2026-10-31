@@ -16,7 +16,7 @@
 
   <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/B.Sc._Computer_Science-2022_--_2026-6C2BD9?style=flat-square&labelColor=090d16" alt="Degree" />
+    <img src="https://img.shields.io/badge/B.E._Computer_Science-2022_--_2026-6C2BD9?style=flat-square&labelColor=090d16" alt="Degree" />
     <img src="https://img.shields.io/badge/CGPA-8.0-8B5CF6?style=flat-square&labelColor=090d16" alt="CGPA" />
     <img src="https://img.shields.io/badge/Location-India-0077B5?style=flat-square&labelColor=090d16" alt="Location" />
     <img src="https://img.shields.io/badge/Role-iOS_App_Developer_Intern-059669?style=flat-square&labelColor=090d16" alt="Role" />
