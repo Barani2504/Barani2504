@@ -2,8 +2,11 @@
 
   <!-- Banner -->
   <a href="https://linkedin.com/in/barani-s-4a479930b" target="_blank">
-    <img src="./banner.png" alt="Barani S - Native iOS & AI/ML Engineer" width="100%" />
+    <img src="./banner.png" alt="Barani S - Native iOS &amp; AI/ML Engineer" width="100%" />
   </a>
+
+  <!-- Hero accent glow -->
+  <img src="./assets/banner-glow.svg" width="100%" alt="Hero glow accent" />
 
   <br/><br/>
 
@@ -47,9 +50,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 👨‍💻 About Me
+<img src="./assets/header-about.svg" width="860" alt="👨‍💻 About Me" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Coding Animation" />
@@ -77,9 +80,9 @@ struct DeveloperProfile {
 }
 ```
 
-- 🎯 **Focus:** Engineering production-grade iOS healthcare & AI applications with on-device intelligence.
-- 🛠️ **Core Skills:** Swift, SwiftUI, UIKit, Core ML, TensorFlow Lite, YOLOv8, Combine, Core Data & Clean MVVM.
-- 🏆 **Key Achievement:** Shipped 3–5 production medical apps to TestFlight & mentored 100+ developers.
+- 🎯 **Focus:** Engineering production-grade iOS healthcare &amp; AI applications with on-device intelligence.
+- 🛠️ **Core Skills:** Swift, SwiftUI, UIKit, Core ML, TensorFlow Lite, YOLOv8, Combine, Core Data &amp; Clean MVVM.
+- 🏆 **Key Achievement:** Shipped 3–5 production medical apps to TestFlight &amp; mentored 100+ developers.
 
 I build **native iOS applications** with Swift and SwiftUI — spanning the full app lifecycle from interface design and REST API integration to on-device AI/ML inference and App Store release management. My work sits at the intersection of **mobile engineering, applied AI/ML, and full-stack backend development**, with hands-on delivery of healthcare and developer-tooling products used in real deployments.
 
@@ -92,7 +95,7 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 **🔭 Currently**
 - iOS App Developer Intern @ SIMATS Engineering
 - Shipping AI-integrated healthcare apps to TestFlight / App Store
-- Developing on-device neural vision pipelines with Core ML & YOLOv8
+- Developing on-device neural vision pipelines with Core ML &amp; YOLOv8
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +103,7 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 **🌱 Open To**
 - iOS Developer / Mobile Engineer opportunities
 - AI/ML-integrated mobile products
-- Full-stack & cross-platform mobile collaborations
+- Full-stack &amp; cross-platform mobile collaborations
 
 </td>
 </tr>
@@ -108,43 +111,43 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 🛠️ Technical Skills
+<img src="./assets/header-skills.svg" width="860" alt="🛠️ Technical Skills" />
 
 <div align="center">
 
 | Category | Skills | Technologies |
 | :--- | :--- | :--- |
-| **iOS Development** | Native App Development | <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Swift & Apple" /> `SwiftUI` `UIKit` `Combine` `Core Data` `Swift Concurrency` |
-| **On-Device AI / ML** | Machine Learning & Computer Vision | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" alt="AI / ML" /> `Core ML` `TensorFlow Lite` `YOLOv8` `RAG Systems` |
-| **Backend & APIs** | Server-side & API Integration | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=dark" alt="Backend & APIs" /> `REST APIs` `JSON` `Judge0` |
-| **Tools & Platforms** | DevOps, Android & Tooling | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=dark" alt="Dev Tools" /> `Xcode` `TestFlight` `Apple HIG` |
+| **iOS Development** | Native App Development | <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Swift &amp; Apple" /> `SwiftUI` `UIKit` `Combine` `Core Data` `Swift Concurrency` |
+| **On-Device AI / ML** | Machine Learning &amp; Computer Vision | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" alt="AI / ML" /> `Core ML` `TensorFlow Lite` `YOLOv8` `RAG Systems` |
+| **Backend &amp; APIs** | Server-side &amp; API Integration | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=dark" alt="Backend &amp; APIs" /> `REST APIs` `JSON` `Judge0` |
+| **Tools &amp; Platforms** | DevOps, Android &amp; Tooling | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=dark" alt="Dev Tools" /> `Xcode` `TestFlight` `Apple HIG` |
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 🧠 AI / ML Expertise
+<img src="./assets/header-aiml.svg" width="860" alt="🧠 AI / ML Expertise" />
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| **On-Device Inference** | ●●●●○ | Core ML & TensorFlow Lite deployment for offline, private, real-time predictions on iOS |
+| **On-Device Inference** | ●●●●○ | Core ML &amp; TensorFlow Lite deployment for offline, private, real-time predictions on iOS |
 | **Computer Vision** | ●●●●○ | YOLOv8-based detection pipeline for medical CT image analysis (kidney stone detection) |
-| **RAG Systems** | ●●●○○ | Retrieval-Augmented Generation for code assistant & multi-language platform support |
+| **RAG Systems** | ●●●○○ | Retrieval-Augmented Generation for code assistant &amp; multi-language platform support |
 | **AI Chatbot Development** | ●●●●○ | Conversational health-monitoring chatbot with real-time vitals context |
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 🚀 Featured Projects
+<img src="./assets/header-projects.svg" width="860" alt="🚀 Featured Projects" />
 
 <table border="0" width="100%">
   <tr>
@@ -153,14 +156,14 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Corecare_iOS&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="CoreCare iOS" />
       </a>
       <br/>
-      <sub><b>🩺 CoreCare iOS</b> — AI-powered cardiac care & self-monitoring with offline-first persistence & real-time chatbot.</sub>
+      <sub><b>🩺 CoreCare iOS</b> — AI-powered cardiac care &amp; self-monitoring with offline-first persistence &amp; real-time chatbot.</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Barani2504/Renal-Calculi" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Renal-Calculi&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Renal Calculi" />
       </a>
       <br/>
-      <sub><b>🫘 SIMATS Renal Calculi</b> — On-device CT medical imaging & kidney stone detection using Core ML & YOLOv8.</sub>
+      <sub><b>🫘 SIMATS Renal Calculi</b> — On-device CT medical imaging &amp; kidney stone detection using Core ML &amp; YOLOv8.</sub>
     </td>
   </tr>
   <tr>
@@ -178,7 +181,7 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Code_in_go_android&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Code-In-Go Android" />
       </a>
       <br/>
-      <sub><b>📱 Code-In-Go Android</b> — Native mobile client engineered with Kotlin & sandboxed telemetry execution.</sub>
+      <sub><b>📱 Code-In-Go Android</b> — Native mobile client engineered with Kotlin &amp; sandboxed telemetry execution.</sub>
     </td>
   </tr>
 </table>
@@ -186,10 +189,10 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 <br/>
 
 <details>
-<summary><b>🔍 View Architecture & Engineering Details</b></summary>
+<summary><b>🔍 View Architecture &amp; Engineering Details</b></summary>
 <br/>
 
-| Project | Tech Stack | Architecture & Engineering Highlights |
+| Project | Tech Stack | Architecture &amp; Engineering Highlights |
 |:--|:--|:--|
 | **CoreCare iOS** | `SwiftUI`, `Core Data`, `SQLite`, `PHP`, `MySQL`, `REST APIs` | Offline-first encrypted local caching, continuous cardiac vitals tracking, and interactive AI chatbot for patient self-care. Multi-version TestFlight deployment. |
 | **SIMATS Renal Calculi** | `SwiftUI`, `Core ML`, `TensorFlow Lite`, `YOLOv8` | 100% on-device neural network inference for radiology CT scans. Detects stone count, size, and anatomical coordinates without patient telemetry leaving device. |
@@ -200,9 +203,9 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 💼 Work Experience
+<img src="./assets/header-experience.svg" width="860" alt="💼 Work Experience" />
 
 **iOS App Developer Intern** · SIMATS Engineering  
 `2025 — Present`
@@ -210,7 +213,7 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 Full-lifecycle iOS development across a suite of production healthcare applications, from interface architecture through App Store releases, backend optimization, and cross-team mentorship.
 
 - Developed and deployed **3–5 healthcare mobile apps** (Swift, SwiftUI) integrating REST APIs, JSON parsing, and on-device AI/ML inference following Apple HIG.
-- Managed **App Store Connect & TestFlight** release pipelines across multiple build cycles — versioning, provisioning profiles, and beta distribution.
+- Managed **App Store Connect &amp; TestFlight** release pipelines across multiple build cycles — versioning, provisioning profiles, and beta distribution.
 - Optimized backend **PHP/MySQL query performance** and API response latency to improve reliability across client applications.
 - Provided technical guidance and conducted code reviews for **100+ engineers** across iOS, Android, and web stacks (React, Flask, Node.js, PHP).
 - Independently architected a load-balancing system and a **Judge0-based multi-language coding engine** powered by RAG.
@@ -219,9 +222,9 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 📊 GitHub Statistics
+<img src="./assets/header-stats.svg" width="860" alt="📊 GitHub Statistics" />
 
 <div align="center">
   <table border="0">
@@ -242,9 +245,9 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 🏆 Achievements & Recognition
+<img src="./assets/header-achievements.svg" width="860" alt="🏆 Achievements &amp; Recognition" />
 
 <div align="center">
 
@@ -257,17 +260,17 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 | Achievement | Details |
 |:--|:--|
-| 🏥 **Healthcare App Delivery** | Shipped 3–5 production healthcare apps to TestFlight & App Store Connect |
-| 👨‍🏫 **Peer Mentorship** | Guided and reviewed code for 100+ student developers across iOS, Android & web stacks |
-| 🧠 **AI-Integrated Platforms** | Built on-device Core ML vision pipelines & RAG-powered developer platforms |
+| 🏥 **Healthcare App Delivery** | Shipped 3–5 production healthcare apps to TestFlight &amp; App Store Connect |
+| 👨‍🏫 **Peer Mentorship** | Guided and reviewed code for 100+ student developers across iOS, Android &amp; web stacks |
+| 🧠 **AI-Integrated Platforms** | Built on-device Core ML vision pipelines &amp; RAG-powered developer platforms |
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 📈 Contribution Activity
+<img src="./assets/header-activity.svg" width="860" alt="📈 Contribution Activity" />
 
 <div align="center">
 
@@ -289,7 +292,7 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
   </tr>
 </table>
 
-<sub>Contribution overview — commit history, language distribution & peak coding hours.</sub>
+<sub>Contribution overview — commit history, language distribution &amp; peak coding hours.</sub>
 
 </div>
 
@@ -307,9 +310,9 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 🕹️ GitHub Contribution Snake
+<img src="./assets/header-snake.svg" width="860" alt="🕹️ GitHub Contribution Snake" />
 
 <div align="center">
   <picture>
@@ -321,9 +324,9 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 📜 Certifications & Coding Profiles
+<img src="./assets/header-certs.svg" width="860" alt="📜 Certifications &amp; Coding Profiles" />
 
 <div align="center">
 
@@ -360,11 +363,11 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="55%" height="2" alt="Mini Divider" />
+<img src="./assets/divider-mini.svg" width="55%" alt="Mini Divider" />
 
 <br/><br/>
 
-**Competitive Programming & Practice Platforms**
+**Competitive Programming &amp; Practice Platforms**
 
 <br/>
 
@@ -385,9 +388,9 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 🎯 Current Focus
+<img src="./assets/header-focus.svg" width="860" alt="🎯 Current Focus" />
 
 ```yaml
 learning:
@@ -406,9 +409,9 @@ open_to:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-### 💬 Developer Quote
+<img src="./assets/header-quote.svg" width="860" alt="💬 Developer Quote" />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%" />
@@ -421,5 +424,5 @@ open_to:
   <br /><br />
   <sub>If you find my work useful, consider giving a ⭐ to the repositories. Open to collaborations and opportunities.</sub>
   <br/>
-  <sub>— <b>Barani S</b> · Native iOS & AI/ML Engineer · Built with Swift & Core ML</sub>
+  <sub>— <b>Barani S</b> · Native iOS &amp; AI/ML Engineer · Built with Swift &amp; Core ML</sub>
 </div>
