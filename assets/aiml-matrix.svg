@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="390" viewBox="0 0 860 390" font-family="'Fira Code', 'JetBrains Mono', ui-monospace, monospace">
+<style>
+  .card { opacity: 0; animation: in 0.5s ease-out both; }
+  .pulse { animation: blink 2s infinite ease-in-out; }
+  .bar-grow-80 { transform-box: fill-box; transform-origin: left; animation: grow80 1.2s cubic-bezier(0.16, 1, 0.3, 1) both; }
+  .bar-grow-60 { transform-box: fill-box; transform-origin: left; animation: grow60 1.2s cubic-bezier(0.16, 1, 0.3, 1) both; }
+  @keyframes in { 0% { opacity: 0; transform: translateY(10px); } 100% { opacity: 1; transform: translateY(0); } }
+  @keyframes blink { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+  @keyframes grow80 { 0% { transform: scaleX(0); } 100% { transform: scaleX(1); } }
+  @keyframes grow60 { 0% { transform: scaleX(0); } 100% { transform: scaleX(1); } }
+  @media (prefers-reduced-motion: reduce) {
+    .card, .bar-grow-80, .bar-grow-60 { opacity: 1 !important; transform: none !important; animation: none !important; }
+    .pulse { animation: none !important; }
+  }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#111722"/>
+    <stop offset="100%" stop-color="#090d16"/>
+  </linearGradient>
+</defs>
+<rect width="860" height="390" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="859" height="389" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="32" x2="860" y2="32" stroke="#30363d"/>
+<circle cx="20" cy="16" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="16" r="5" fill="#ffbd2e"/>
+<circle cx="52" cy="16" r="5" fill="#27c93f"/>
+<text x="430.0" y="20" fill="#7d8590" font-size="12" text-anchor="middle">barani@simats: ~$ ./ai_engine.py --precision=fp16 --target=AppleNeuralEngine</text>
+<g class="card" style="animation-delay: 0.05s;">
+  <circle cx="26" cy="52" r="4" fill="#39d353" class="pulse"/>
+  <text x="36" y="56" fill="#39d353" font-size="11" font-weight="700">NEURAL ENGINE: ACTIVE</text>
+  <text x="210" y="56" fill="#7d8590" font-size="11">● RUNTIME: CORE ML &amp; TFLITE</text>
+  <text x="440" y="56" fill="#7d8590" font-size="11">● ZERO CLOUD LATENCY (OFFLINE)</text>
+  <text x="836" y="56" fill="#38bdf8" font-size="11" text-anchor="end">VISION &amp; RAG SUITE</text>
+  <line x1="20" y1="68" x2="840" y2="68" stroke="#21262d" stroke-dasharray="3,3"/>
+</g>
+<path d="M 22 44 L 32 44 M 22 44 L 22 54" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.4"/>
+<path d="M 838 44 L 828 44 M 838 44 L 838 54" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.4"/>
+<g class="card" style="animation-delay: 0.15s;">
+  <rect x="20" y="82" width="820" height="68" rx="8" fill="#131922" stroke="#30363d"/>
+  <text x="36" y="108" fill="#e6edf3" font-size="14" font-weight="700">On-Device Inference</text>
+  <rect x="240" y="95" width="165" height="18" rx="9" fill="#38bdf818" stroke="#38bdf855"/>
+  <text x="322" y="108" fill="#38bdf8" font-size="9.5" font-weight="600" text-anchor="middle">CORE ML · TFLITE</text>
+  <text x="540" y="108" fill="#7d8590" font-size="12">Rating: <tspan fill="#38bdf8" font-weight="700">●●●●○</tspan> (80%)</text>
+  <rect x="675" y="100" width="120" height="9" rx="4.5" fill="#21262d"/>
+  <rect class="bar-grow-80" x="675" y="100" width="96" height="9" rx="4.5" fill="#38bdf8"/>
+  <text x="36" y="132" fill="#7d8590" font-size="11">Core ML & TensorFlow Lite deployment for offline, private, real-time predictions on iOS</text>
+</g>
+<g class="card" style="animation-delay: 0.25s;">
+  <rect x="20" y="158" width="820" height="68" rx="8" fill="#131922" stroke="#30363d"/>
+  <text x="36" y="184" fill="#e6edf3" font-size="14" font-weight="700">Computer Vision</text>
+  <rect x="240" y="171" width="165" height="18" rx="9" fill="#8b5cf618" stroke="#8b5cf655"/>
+  <text x="322" y="184" fill="#8b5cf6" font-size="9.5" font-weight="600" text-anchor="middle">YOLOV8 · RADIOLOGY CT</text>
+  <text x="540" y="184" fill="#7d8590" font-size="12">Rating: <tspan fill="#8b5cf6" font-weight="700">●●●●○</tspan> (80%)</text>
+  <rect x="675" y="176" width="120" height="9" rx="4.5" fill="#21262d"/>
+  <rect class="bar-grow-80" x="675" y="176" width="96" height="9" rx="4.5" fill="#8b5cf6"/>
+  <text x="36" y="208" fill="#7d8590" font-size="11">YOLOv8-based detection pipeline for medical CT image analysis (kidney stone detection)</text>
+</g>
+<g class="card" style="animation-delay: 0.35s;">
+  <rect x="20" y="234" width="820" height="68" rx="8" fill="#131922" stroke="#30363d"/>
+  <text x="36" y="260" fill="#e6edf3" font-size="14" font-weight="700">RAG Systems</text>
+  <rect x="240" y="247" width="165" height="18" rx="9" fill="#f59e0b18" stroke="#f59e0b55"/>
+  <text x="322" y="260" fill="#f59e0b" font-size="9.5" font-weight="600" text-anchor="middle">CODEGO COMPILER · RETRIEVAL</text>
+  <text x="540" y="260" fill="#7d8590" font-size="12">Rating: <tspan fill="#f59e0b" font-weight="700">●●●○○</tspan> (60%)</text>
+  <rect x="675" y="252" width="120" height="9" rx="4.5" fill="#21262d"/>
+  <rect class="bar-grow-60" x="675" y="252" width="72" height="9" rx="4.5" fill="#f59e0b"/>
+  <text x="36" y="284" fill="#7d8590" font-size="11">Retrieval-Augmented Generation for code assistant & multi-language platform support</text>
+</g>
+<g class="card" style="animation-delay: 0.45s;">
+  <rect x="20" y="310" width="820" height="68" rx="8" fill="#131922" stroke="#30363d"/>
+  <text x="36" y="336" fill="#e6edf3" font-size="14" font-weight="700">AI Chatbot Development</text>
+  <rect x="240" y="323" width="165" height="18" rx="9" fill="#39d35318" stroke="#39d35355"/>
+  <text x="322" y="336" fill="#39d353" font-size="9.5" font-weight="600" text-anchor="middle">CORECARE · CONVERSATIONAL</text>
+  <text x="540" y="336" fill="#7d8590" font-size="12">Rating: <tspan fill="#39d353" font-weight="700">●●●●○</tspan> (80%)</text>
+  <rect x="675" y="328" width="120" height="9" rx="4.5" fill="#21262d"/>
+  <rect class="bar-grow-80" x="675" y="328" width="96" height="9" rx="4.5" fill="#39d353"/>
+  <text x="36" y="360" fill="#7d8590" font-size="11">Conversational health-monitoring chatbot with real-time vitals context</text>
+</g>
+</svg>

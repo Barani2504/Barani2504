@@ -19,7 +19,7 @@
 
   <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/B.E._Computer_Science-2022_--_2026-6C2BD9?style=flat-square&labelColor=090d16" alt="Degree" />
+    <img src="https://img.shields.io/badge/B.Sc._Computer_Science-2022_--_2026-6C2BD9?style=flat-square&labelColor=090d16" alt="Degree" />
     <img src="https://img.shields.io/badge/CGPA-8.0-8B5CF6?style=flat-square&labelColor=090d16" alt="CGPA" />
     <img src="https://img.shields.io/badge/Location-India-0077B5?style=flat-square&labelColor=090d16" alt="Location" />
     <img src="https://img.shields.io/badge/Role-iOS_App_Developer_Intern-059669?style=flat-square&labelColor=090d16" alt="Role" />
@@ -60,11 +60,18 @@
 
 <br/>
 
+<!-- Dev System Telemetry HUD Card -->
+<p align="center">
+  <img src="./assets/dev-system.svg" width="860" alt="Barani's Developer System Telemetry &amp; Deployment Logs" />
+</p>
+
+<br/>
+
 ```swift
 struct DeveloperProfile {
     let name: String         = "Barani S"
     let role: String         = "Native iOS & AI/ML Engineer"
-    let education: String    = "B.E. Computer Science, 2022-2026"
+    let education: String    = "B.Sc. Computer Science, 2022-2026"
     let organization: String = "SIMATS Engineering"
 
     // Core Expertise
@@ -131,6 +138,13 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 <img src="./assets/header-aiml.svg" width="860" alt="🧠 AI / ML Expertise" />
+
+<!-- AI / ML Animated Progress Bar Matrix Card -->
+<p align="center">
+  <img src="./assets/aiml-matrix.svg" width="860" alt="Barani's AI / ML On-Device Inference Matrix &amp; Progress Bars" />
+</p>
+
+<br/>
 
 <div align="center">
 
@@ -248,6 +262,13 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 <img src="./assets/header-achievements.svg" width="860" alt="🏆 Achievements &amp; Recognition" />
+
+<!-- Animated Achievements & Recognition HUD Telemetry Card -->
+<p align="center">
+  <img src="./assets/achievements-card.svg" width="860" alt="Barani's Achievements &amp; Recognition HUD Telemetry" />
+</p>
+
+<br/>
 
 <div align="center">
 
@@ -391,6 +412,13 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 <img src="./assets/header-focus.svg" width="860" alt="🎯 Current Focus" />
+
+<!-- Current Focus 2x2 Building Blocks Card -->
+<p align="center">
+  <img src="./assets/focus-blocks.svg" width="860" alt="Barani's Current Focus Building Blocks &amp; Systems Architecture" />
+</p>
+
+<br/>
 
 ```yaml
 learning:
