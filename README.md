@@ -87,10 +87,6 @@ struct DeveloperProfile {
 }
 ```
 
-- 🎯 **Focus:** Engineering production-grade iOS healthcare &amp; AI applications with on-device intelligence.
-- 🛠️ **Core Skills:** Swift, SwiftUI, UIKit, Core ML, TensorFlow Lite, YOLOv8, Combine, Core Data &amp; Clean MVVM.
-- 🏆 **Key Achievement:** Shipped 3–5 production medical apps to TestFlight &amp; mentored 100+ developers.
-
 I build **native iOS applications** with Swift and SwiftUI — spanning the full app lifecycle from interface design and REST API integration to on-device AI/ML inference and App Store release management. My work sits at the intersection of **mobile engineering, applied AI/ML, and full-stack backend development**, with hands-on delivery of healthcare and developer-tooling products used in real deployments.
 
 I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based multi-language code execution platform backed by RAG, and mentored 100+ engineers across iOS, Android, and web stacks during code reviews.
@@ -126,10 +122,10 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 | Category | Skills | Technologies |
 | :--- | :--- | :--- |
-| **iOS Development** | Native App Development | <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Swift &amp; Apple" /> `SwiftUI` `UIKit` `Combine` `Core Data` `Swift Concurrency` |
-| **On-Device AI / ML** | Machine Learning &amp; Computer Vision | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" alt="AI / ML" /> `Core ML` `TensorFlow Lite` `YOLOv8` `RAG Systems` |
-| **Backend &amp; APIs** | Server-side &amp; API Integration | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=dark" alt="Backend &amp; APIs" /> `REST APIs` `JSON` `Judge0` |
-| **Tools &amp; Platforms** | DevOps, Android &amp; Tooling | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=dark" alt="Dev Tools" /> `Xcode` `TestFlight` `Apple HIG` |
+| **iOS Development** | Native App Development | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,apple&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,apple&theme=light"><img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Swift &amp; Apple" /></picture> `SwiftUI` `UIKit` `Combine` `Core Data` `Swift Concurrency` |
+| **On-Device AI / ML** | Machine Learning &amp; Computer Vision | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=light"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark" alt="AI / ML" /></picture> `Core ML` `TensorFlow Lite` `YOLOv8` `RAG Systems` |
+| **Backend &amp; APIs** | Server-side &amp; API Integration | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=light"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,redis,postman&theme=dark" alt="Backend &amp; APIs" /></picture> `REST APIs` `JSON` `Judge0` |
+| **Tools &amp; Platforms** | DevOps, Android &amp; Tooling | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=light"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,docker,linux&theme=dark" alt="Dev Tools" /></picture> `Xcode` `TestFlight` `Apple HIG` |
 
 </div>
 
@@ -139,23 +135,10 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 <img src="./assets/header-aiml.svg" width="860" alt="🧠 AI / ML Expertise" />
 
-<!-- AI / ML Animated Progress Bar Matrix Card -->
+<!-- AI / ML Animated Progress Bar Matrix Card (Consolidates all domain details, proficiency dots, and animated bars with zero duplication) -->
 <p align="center">
   <img src="./assets/aiml-matrix.svg" width="860" alt="Barani's AI / ML On-Device Inference Matrix &amp; Progress Bars" />
 </p>
-
-<br/>
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **On-Device Inference** | ●●●●○ | Core ML &amp; TensorFlow Lite deployment for offline, private, real-time predictions on iOS |
-| **Computer Vision** | ●●●●○ | YOLOv8-based detection pipeline for medical CT image analysis (kidney stone detection) |
-| **RAG Systems** | ●●●○○ | Retrieval-Augmented Generation for code assistant &amp; multi-language platform support |
-| **AI Chatbot Development** | ●●●●○ | Conversational health-monitoring chatbot with real-time vitals context |
-
-</div>
 
 <br/>
 
@@ -167,14 +150,22 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Barani2504/Corecare_iOS" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Corecare_iOS&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="CoreCare iOS" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Corecare_iOS&theme=tokyonight&show_owner=false&border_radius=10">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Corecare_iOS&theme=default&show_owner=false&border_radius=10">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Corecare_iOS&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="CoreCare iOS" />
+        </picture>
       </a>
       <br/>
       <sub><b>🩺 CoreCare iOS</b> — AI-powered cardiac care &amp; self-monitoring with offline-first persistence &amp; real-time chatbot.</sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Barani2504/Renal-Calculi" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Renal-Calculi&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Renal Calculi" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Renal-Calculi&theme=tokyonight&show_owner=false&border_radius=10">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Renal-Calculi&theme=default&show_owner=false&border_radius=10">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Renal-Calculi&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Renal Calculi" />
+        </picture>
       </a>
       <br/>
       <sub><b>🫘 SIMATS Renal Calculi</b> — On-device CT medical imaging &amp; kidney stone detection using Core ML &amp; YOLOv8.</sub>
@@ -184,7 +175,11 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/Barani2504/Codego_Compiler" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Codego_Compiler&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Codego Compiler" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Codego_Compiler&theme=tokyonight&show_owner=false&border_radius=10">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Codego_Compiler&theme=default&show_owner=false&border_radius=10">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Codego_Compiler&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Codego Compiler" />
+        </picture>
       </a>
       <br/>
       <sub><b>⚙️ Codego Multi-Language Engine</b> — Load-balanced online code execution platform paired with RAG assistant.</sub>
@@ -192,7 +187,11 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/Barani2504/Code_in_go_android" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Code_in_go_android&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Code-In-Go Android" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Code_in_go_android&theme=tokyonight&show_owner=false&border_radius=10">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Code_in_go_android&theme=default&show_owner=false&border_radius=10">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barani2504&repo=Code_in_go_android&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Code-In-Go Android" />
+        </picture>
       </a>
       <br/>
       <sub><b>📱 Code-In-Go Android</b> — Native mobile client engineered with Kotlin &amp; sandboxed telemetry execution.</sub>
@@ -244,17 +243,29 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Barani2504&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" height="165" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Barani2504&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Barani2504&show_icons=true&theme=default&hide_border=false&border_radius=10&count_private=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=Barani2504&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" height="165" />
+        </picture>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Barani2504&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Barani2504&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Barani2504&locale=en&layout=compact&theme=default&hide_border=false&border_radius=10">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Barani2504&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" height="165" />
+        </picture>
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=Barani2504&theme=tokyonight&hide_border=false&border_radius=10" alt="Contribution Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Barani2504&theme=tokyonight&hide_border=false&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Barani2504&theme=default&hide_border=false&border_radius=10">
+    <img src="https://streak-stats.demolab.com?user=Barani2504&theme=tokyonight&hide_border=false&border_radius=10" alt="Contribution Streak" />
+  </picture>
 </div>
 
 <br/>
@@ -263,29 +274,10 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/header-achievements.svg" width="860" alt="🏆 Achievements &amp; Recognition" />
 
-<!-- Animated Achievements & Recognition HUD Telemetry Card -->
+<!-- Animated Achievements & Recognition HUD Telemetry Card (Consolidates all metric tiles and verified records with zero duplication) -->
 <p align="center">
   <img src="./assets/achievements-card.svg" width="860" alt="Barani's Achievements &amp; Recognition HUD Telemetry" />
 </p>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Production_Apps-3--5_Healthcare_Apps_Shipped-0078D4?style=for-the-badge&labelColor=090d16" alt="Production Apps" />
-<img src="https://img.shields.io/badge/Mentorship-100%2B_Engineers_Guided-8B5CF6?style=for-the-badge&labelColor=090d16" alt="Mentorship" />
-<img src="https://img.shields.io/badge/AI%2FML-On--Device_ML_Pipelines-059669?style=for-the-badge&labelColor=090d16" alt="AI/ML" />
-<img src="https://img.shields.io/badge/Platforms-iOS_%7C_Android_%7C_Web-38BDF8?style=for-the-badge&labelColor=090d16" alt="Platforms" />
-
-<br/><br/>
-
-| Achievement | Details |
-|:--|:--|
-| 🏥 **Healthcare App Delivery** | Shipped 3–5 production healthcare apps to TestFlight &amp; App Store Connect |
-| 👨‍🏫 **Peer Mentorship** | Guided and reviewed code for 100+ student developers across iOS, Android &amp; web stacks |
-| 🧠 **AI-Integrated Platforms** | Built on-device Core ML vision pipelines &amp; RAG-powered developer platforms |
-
-</div>
 
 <br/>
 
@@ -295,20 +287,36 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=tokyonight" alt="Contribution Activity Overview" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=tokyonight" alt="Contribution Activity Overview" width="100%"/>
+</picture>
 
 <br/>
 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=tokyonight" alt="Repos Per Language" height="180" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=tokyonight">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=default">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=tokyonight" alt="Repos Per Language" height="180" />
+      </picture>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=tokyonight" alt="Most Commit Language" height="180" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=tokyonight">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=default">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=tokyonight" alt="Most Commit Language" height="180" />
+      </picture>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=tokyonight&utcOffset=5.5">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=default&utcOffset=5.5">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -323,7 +331,11 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-green-animate.svg">
+  <img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%"/>
+</picture>
 
 <sub>Isometric 3D render of commit history — auto-updated daily via GitHub Actions.</sub>
 
@@ -413,27 +425,10 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/header-focus.svg" width="860" alt="🎯 Current Focus" />
 
-<!-- Current Focus 2x2 Building Blocks Card -->
+<!-- Current Focus 2x2 Building Blocks Card (Consolidates all focus areas, learning, building, exploring, and open-to goals with zero duplication) -->
 <p align="center">
   <img src="./assets/focus-blocks.svg" width="860" alt="Barani's Current Focus Building Blocks &amp; Systems Architecture" />
 </p>
-
-<br/>
-
-```yaml
-learning:
-  - Advanced Swift Concurrency & SwiftData
-  - On-Device LLM & Vision Transformer Optimization
-building:
-  - Production AI-integrated healthcare & diagnostic iOS apps
-  - RAG-powered developer compilation & mentorship tooling
-exploring:
-  - Cross-platform AI feature parity (iOS + Android)
-  - Edge deployment of computer vision models (Core ML & YOLOv8)
-open_to:
-  - Native iOS Developer / Mobile Engineer roles
-  - AI/ML-driven mobile engineering collaborations
-```
 
 <br/>
 
@@ -442,7 +437,11 @@ open_to:
 <img src="./assets/header-quote.svg" width="860" alt="💬 Developer Quote" />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%" />
+  </picture>
 </div>
 
 <br/>
