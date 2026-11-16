@@ -52,7 +52,11 @@
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-about.svg" width="860" alt="👨‍💻 About Me" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-about-light.svg">
+  <img src="./assets/header-about-dark.svg" width="860" alt="👨‍💻 About Me" />
+</picture>
 
 <!-- Dev System Telemetry & Profile HUD Card (Dark/Light responsive: black in dark mode, white in light mode) -->
 <p align="center">
@@ -71,7 +75,11 @@ I build **native iOS applications** with Swift and SwiftUI — spanning the full
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-skills.svg" width="860" alt="🛠️ Technical Skills" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-skills-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-skills-light.svg">
+  <img src="./assets/header-skills-dark.svg" width="860" alt="🛠️ Technical Skills" />
+</picture>
 
 <div align="center">
 
@@ -88,18 +96,30 @@ I build **native iOS applications** with Swift and SwiftUI — spanning the full
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-aiml.svg" width="860" alt="🧠 AI / ML Expertise" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-aiml-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-aiml-light.svg">
+  <img src="./assets/header-aiml-dark.svg" width="860" alt="🧠 AI / ML Expertise" />
+</picture>
 
 <!-- AI / ML Animated Progress Bar Matrix Card -->
 <p align="center">
-  <img src="./assets/aiml-matrix.svg" width="860" alt="Barani's AI / ML On-Device Inference Matrix &amp; Progress Bars" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aiml-matrix-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/aiml-matrix-light.svg">
+    <img src="./assets/aiml-matrix-dark.svg" width="860" alt="Barani's AI / ML On-Device Inference Matrix &amp; Progress Bars" />
+  </picture>
 </p>
 
 <br/>
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-projects.svg" width="860" alt="🚀 Featured Projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-projects-light.svg">
+  <img src="./assets/header-projects-dark.svg" width="860" alt="🚀 Featured Projects" />
+</picture>
 
 <table border="0" width="100%">
   <tr>
@@ -173,7 +193,11 @@ I build **native iOS applications** with Swift and SwiftUI — spanning the full
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-experience.svg" width="860" alt="💼 Work Experience" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-experience-light.svg">
+  <img src="./assets/header-experience-dark.svg" width="860" alt="💼 Work Experience" />
+</picture>
 
 **iOS App Developer Intern** · SIMATS Engineering  
 `2025 — Present`
@@ -192,7 +216,11 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-stats.svg" width="860" alt="📊 GitHub Statistics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-stats-light.svg">
+  <img src="./assets/header-stats-dark.svg" width="860" alt="📊 GitHub Statistics" />
+</picture>
 
 <div align="center">
   <table border="0">
@@ -227,18 +255,30 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-achievements.svg" width="860" alt="🏆 Achievements &amp; Recognition" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-achievements-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-achievements-light.svg">
+  <img src="./assets/header-achievements-dark.svg" width="860" alt="🏆 Achievements & Recognition" />
+</picture>
 
 <!-- Animated Achievements & Recognition HUD Telemetry Card -->
 <p align="center">
-  <img src="./assets/achievements-card.svg" width="860" alt="Barani's Achievements &amp; Recognition HUD Telemetry" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/achievements-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/achievements-card-light.svg">
+    <img src="./assets/achievements-card-dark.svg" width="860" alt="Barani's Achievements &amp; Recognition HUD Telemetry" />
+  </picture>
 </p>
 
 <br/>
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-3dgraph.svg" width="860" alt="🧊 3D Isometric Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-3dgraph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-3dgraph-light.svg">
+  <img src="./assets/header-3dgraph-dark.svg" width="860" alt="🧊 3D Isometric Contribution Graph" />
+</picture>
 
 <div align="center">
 
@@ -256,7 +296,11 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-snake.svg" width="860" alt="🕹️ GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-snake-light.svg">
+  <img src="./assets/header-snake-dark.svg" width="860" alt="🕹️ GitHub Contribution Snake" />
+</picture>
 
 <div align="center">
   <picture>
@@ -270,7 +314,11 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-certs.svg" width="860" alt="⚡ Coding Profiles &amp; Problem Solving" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-certs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-certs-light.svg">
+  <img src="./assets/header-certs-dark.svg" width="860" alt="⚡ Coding Profiles & Problem Solving" />
+</picture>
 
 <div align="center">
 
@@ -298,11 +346,19 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-focus.svg" width="860" alt="🎯 Current Focus" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-focus-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-focus-light.svg">
+  <img src="./assets/header-focus-dark.svg" width="860" alt="🎯 Current Focus" />
+</picture>
 
 <!-- Current Focus 2x2 Building Blocks Card -->
 <p align="center">
-  <img src="./assets/focus-blocks.svg" width="860" alt="Barani's Current Focus Building Blocks &amp; Systems Architecture" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-blocks-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/focus-blocks-light.svg">
+    <img src="./assets/focus-blocks-dark.svg" width="860" alt="Barani's Current Focus Building Blocks &amp; Systems Architecture" />
+  </picture>
 </p>
 
 <br/>

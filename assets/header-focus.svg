@@ -19,7 +19,7 @@
   <circle cx="52" cy="20" r="5" fill="#27c93f"/>
   <line x1="68" y1="8" x2="68" y2="38" stroke="#30363d" stroke-width="1"/>
   <text x="76" y="25" fill="#8B5CF6" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,monospace" font-size="12">~ $</text>
-  <text x="106" y="25" fill="#e6edf3" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,monospace" font-size="14" font-weight="600">&#x1F3AF; Current Focus</text>
-  <text x="299" y="25" fill="#38BDF8" font-family="'Fira Code',monospace" font-size="14" class="cursor">&#x25ae;</text>
-  <rect x="106" y="39" width="185" height="2" rx="1" fill="url(#uGrad)" class="uline"/>
+  <text x="106" y="25" fill="#e6edf3" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,monospace" font-size="14" font-weight="600">🎯 Current Focus</text>
+  <text x="329" y="25" fill="#38BDF8" font-family="'Fira Code',monospace" font-size="14" class="cursor">&#x25ae;</text>
+  <rect x="106" y="39" width="215" height="2" rx="1" fill="url(#uGrad)" class="uline"/>
 </svg>
