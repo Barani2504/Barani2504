@@ -54,12 +54,6 @@
 
 <img src="./assets/header-about.svg" width="860" alt="👨‍💻 About Me" />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Coding Animation" />
-</div>
-
-<br/>
-
 <!-- Dev System Telemetry & Profile HUD Card (Dark/Light responsive: black in dark mode, white in light mode) -->
 <p align="center">
   <picture>
@@ -244,51 +238,7 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-activity.svg" width="860" alt="📈 Contribution Activity" />
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barani2504&theme=tokyonight" alt="Contribution Activity Overview" width="100%"/>
-</picture>
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=tokyonight">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=default">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barani2504&theme=tokyonight" alt="Repos Per Language" height="180" />
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=tokyonight">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=default">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barani2504&theme=tokyonight" alt="Most Commit Language" height="180" />
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=tokyonight&utcOffset=5.5">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=default&utcOffset=5.5">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barani2504&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<sub>Contribution overview — commit history, language distribution &amp; peak coding hours.</sub>
-
-</div>
-
-<br/>
-
-### 🧊 3D Isometric Contribution Graph
+<img src="./assets/header-3dgraph.svg" width="860" alt="🧊 3D Isometric Contribution Graph" />
 
 <div align="center">
 
@@ -354,20 +304,6 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 <p align="center">
   <img src="./assets/focus-blocks.svg" width="860" alt="Barani's Current Focus Building Blocks &amp; Systems Architecture" />
 </p>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-
-<img src="./assets/header-quote.svg" width="860" alt="💬 Developer Quote" />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="100%" />
-  </picture>
-</div>
 
 <br/>
 
