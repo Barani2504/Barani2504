@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=40&lines=Native+iOS+%26+AI%2FML+Engineer+%F0%9F%93%B1;Swift+%7C+SwiftUI+%7C+Core+ML+%7C+Xcode+16;Building+Healthcare+Apps+with+On-Device+Intelligence;Open+to+iOS+Developer+%26+Mobile+Engineer+Roles" alt="Typing Headline" />
   </a>
 
@@ -36,8 +36,8 @@
     <a href="https://github.com/Barani2504" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-6C2BD9?style=for-the-badge&logo=safari&logoColor=38bdf8" alt="Portfolio" />
+    <a href="https://github.com/Barani2504/Corecare_iOS" target="_blank">
+      <img src="https://img.shields.io/badge/Featured_App-CoreCare_iOS-6C2BD9?style=for-the-badge&logo=apple&logoColor=38bdf8" alt="Featured App" />
     </a>
   </p>
 
@@ -60,25 +60,16 @@
 
 <br/>
 
-```swift
-struct DeveloperProfile {
-    let name: String         = "Barani S"
-    let role: String         = "Native iOS & AI/ML Engineer"
-    let education: String    = "B.Sc. Computer Science, 2022-2026"
-    let organization: String = "SIMATS Engineering"
+<!-- Dev System Telemetry & Profile HUD Card (Dark/Light responsive: black in dark mode, white in light mode) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dev-system-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/dev-system-light.svg">
+    <img src="./assets/dev-system-dark.svg" width="860" alt="Barani's Developer System Telemetry &amp; Profile" />
+  </picture>
+</p>
 
-    // Core Expertise
-    let primaryFocus: String = "iOS Healthcare & AI/ML Applications"
-    let aiSpecialty: String  = "On-Device Inference - Core ML & TFLite"
-    let deployment: String   = "App Store Connect & TestFlight"
-
-    // Tech Stack
-    let stack: [String] = [
-        "Swift", "SwiftUI", "UIKit",
-        "Core ML", "Combine", "TFLite"
-    ]
-}
-```
+<br/>
 
 I build **native iOS applications** with Swift and SwiftUI — spanning the full app lifecycle from interface architecture and REST API integration to on-device AI/ML inference and App Store release management. My work focuses on healthcare intelligence, offline-first persistence, and high-performance mobile systems.
 
@@ -329,60 +320,24 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-<img src="./assets/header-certs.svg" width="860" alt="📜 Certifications &amp; Coding Profiles" />
+<img src="./assets/header-certs.svg" width="860" alt="⚡ Coding Profiles &amp; Problem Solving" />
 
 <div align="center">
-
-<!-- Azure DP-900 Certificate Display -->
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Barani2504/Barani2504/main/certificates/azure-dp900.pdf" target="_blank" title="Click to view or download high-resolution PDF">
-    <img src="https://raw.githubusercontent.com/Barani2504/Barani2504/main/certificates/azure-dp900.png" alt="Microsoft Certified: Azure Data Fundamentals (DP-900) - S Barani" width="85%" style="border-radius: 8px;" />
-  </a>
-</p>
-
-<sub>🔍 <i>Click the certificate image above to view or download the original high-resolution PDF</i></sub>
-
-<br/><br/>
-
-<!-- Metadata badges -->
-<img src="https://img.shields.io/badge/Issuer-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=090d16" alt="Issuer" />
-<img src="https://img.shields.io/badge/Exam-DP--900-8B5CF6?style=flat-square&logoColor=white&labelColor=090d16" alt="Exam Code" />
-<img src="https://img.shields.io/badge/Domain-Azure_Data_Fundamentals-38BDF8?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=090d16" alt="Domain" />
-<img src="https://img.shields.io/badge/Status-Certified-059669?style=flat-square&logoColor=white&labelColor=090d16" alt="Status: Certified" />
-<img src="https://img.shields.io/badge/Verification-wBmAX--2FMV-F59E0B?style=flat-square&labelColor=090d16" alt="Verification Code" />
-
-<br/><br/>
-
-<a href="https://raw.githubusercontent.com/Barani2504/Barani2504/main/certificates/azure-dp900.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download_Original-PDF_Document-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF" />
-</a>
-&nbsp;
-<a href="https://verify.certiport.com" target="_blank">
-  <img src="https://img.shields.io/badge/Verify_Credential-Certiport-00B4D8?style=for-the-badge&labelColor=090d16" alt="Verify on Certiport" />
-</a>
-
-<br/><br/>
-<sub><b>Key Competencies:</b> Cloud Concepts &nbsp;·&nbsp; Azure Relational &amp; Non-Relational Data &nbsp;·&nbsp; Modern Data Analytics &amp; Storage</sub>
-
-<br/>
-
-<img src="./assets/divider-mini.svg" width="55%" alt="Mini Divider" />
-
-<br/><br/>
-
-**Competitive Programming &amp; Practice Platforms**
 
 <br/>
 
   <a href="https://leetcode.com/u/Barani2504" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-090d16?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="https://www.geeksforgeeks.org/user/barani2504" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-090d16?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/barani2504s" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-090d16?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
   </a>
+  &nbsp;
   <a href="https://www.codechef.com/users/barani2504" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-090d16?style=for-the-badge&logo=codechef&logoColor=5B4638" alt="CodeChef" />
   </a>
