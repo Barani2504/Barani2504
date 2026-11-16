@@ -60,13 +60,6 @@
 
 <br/>
 
-<!-- Dev System Telemetry HUD Card -->
-<p align="center">
-  <img src="./assets/dev-system.svg" width="860" alt="Barani's Developer System Telemetry &amp; Deployment Logs" />
-</p>
-
-<br/>
-
 ```swift
 struct DeveloperProfile {
     let name: String         = "Barani S"
@@ -87,30 +80,7 @@ struct DeveloperProfile {
 }
 ```
 
-I build **native iOS applications** with Swift and SwiftUI — spanning the full app lifecycle from interface design and REST API integration to on-device AI/ML inference and App Store release management. My work sits at the intersection of **mobile engineering, applied AI/ML, and full-stack backend development**, with hands-on delivery of healthcare and developer-tooling products used in real deployments.
-
-I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based multi-language code execution platform backed by RAG, and mentored 100+ engineers across iOS, Android, and web stacks during code reviews.
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🔭 Currently**
-- iOS App Developer Intern @ SIMATS Engineering
-- Shipping AI-integrated healthcare apps to TestFlight / App Store
-- Developing on-device neural vision pipelines with Core ML &amp; YOLOv8
-
-</td>
-<td width="50%" valign="top">
-
-**🌱 Open To**
-- iOS Developer / Mobile Engineer opportunities
-- AI/ML-integrated mobile products
-- Full-stack &amp; cross-platform mobile collaborations
-
-</td>
-</tr>
-</table>
+I build **native iOS applications** with Swift and SwiftUI — spanning the full app lifecycle from interface architecture and REST API integration to on-device AI/ML inference and App Store release management. My work focuses on healthcare intelligence, offline-first persistence, and high-performance mobile systems.
 
 <br/>
 
@@ -135,7 +105,7 @@ I've shipped 3–5 production healthcare apps end-to-end, built a Judge0-based m
 
 <img src="./assets/header-aiml.svg" width="860" alt="🧠 AI / ML Expertise" />
 
-<!-- AI / ML Animated Progress Bar Matrix Card (Consolidates all domain details, proficiency dots, and animated bars with zero duplication) -->
+<!-- AI / ML Animated Progress Bar Matrix Card -->
 <p align="center">
   <img src="./assets/aiml-matrix.svg" width="860" alt="Barani's AI / ML On-Device Inference Matrix &amp; Progress Bars" />
 </p>
@@ -274,7 +244,7 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/header-achievements.svg" width="860" alt="🏆 Achievements &amp; Recognition" />
 
-<!-- Animated Achievements & Recognition HUD Telemetry Card (Consolidates all metric tiles and verified records with zero duplication) -->
+<!-- Animated Achievements & Recognition HUD Telemetry Card -->
 <p align="center">
   <img src="./assets/achievements-card.svg" width="860" alt="Barani's Achievements &amp; Recognition HUD Telemetry" />
 </p>
@@ -425,7 +395,7 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 
 <img src="./assets/header-focus.svg" width="860" alt="🎯 Current Focus" />
 
-<!-- Current Focus 2x2 Building Blocks Card (Consolidates all focus areas, learning, building, exploring, and open-to goals with zero duplication) -->
+<!-- Current Focus 2x2 Building Blocks Card -->
 <p align="center">
   <img src="./assets/focus-blocks.svg" width="860" alt="Barani's Current Focus Building Blocks &amp; Systems Architecture" />
 </p>
@@ -447,8 +417,6 @@ Full-lifecycle iOS development across a suite of production healthcare applicati
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Barani2504.Barani2504&left_color=090d16&right_color=38bdf8" alt="Profile Views" />
-  <br /><br />
   <sub>If you find my work useful, consider giving a ⭐ to the repositories. Open to collaborations and opportunities.</sub>
   <br/>
   <sub>— <b>Barani S</b> · Native iOS &amp; AI/ML Engineer · Built with Swift &amp; Core ML</sub>
